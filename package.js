@@ -15,7 +15,7 @@ Package.onUse(function(api) {
     'templating',
     'tracker',
     'iron:router@1.0.3',
-    'aldeed:autoform@4.2.1',
+    'aldeed:autoform@5.5.1',
   ], both);
 
   api.addFiles([
